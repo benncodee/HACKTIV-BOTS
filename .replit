@@ -1,0 +1,4 @@
+run = "clear && node index.js"
+
+[nix]
+channel = "stable-21_11"
