@@ -1,0 +1,42 @@
+[
+  {
+    "jid": "6281269562585@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6285760536459@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 5
+      },
+      {
+        "nama": "#owner",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6282251522772@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282187377233@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tiktok",
+        "count": 1
+      }
+    ]
+  }
+]
